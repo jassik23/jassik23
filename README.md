@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jassik23
 - 👀 I’m interested in PROGGING
-- 🌱 I’m currently learning C++, Java, Python
+- 🌱 I’m currently learning C++, Java, Python, C#
 - 📫 How to reach me^ Telegram(@XoTTaB_R)
 
 <!---
