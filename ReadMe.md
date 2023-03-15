@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my graduate work;<br>🤝 I’m looking for help with my learning;<br>🌱 I’m currently learning Python, SQL, CSS;<br>💬 Ask me about my studying;<br>⚡ Fun fact: I'm a dancer;
+🔭 I’m currently working on my graduate work;<br>🤝 I’m looking for help with my learning;<br>🌱 I’m currently learning Python, SQL, JS;<br>💬 Ask me about my studying;<br>⚡ Fun fact: I'm a dancer;
 
 
 ## 🌐 Socials:
