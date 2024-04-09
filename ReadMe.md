@@ -8,6 +8,8 @@
 👨‍🏫 Teacher in HSC FEFU<br>
 👨‍🏫 Teacher of Digital Departments specializing in "Data Analytics. Basic Competencies".<br>
 
+## 📈 Stats
+
 [![XoTTaB's GitHub stats](https://github-readme-stats.vercel.app/api?username=xottab-ops&show_icons=true&theme=radical)](https://github.com/xottab-ops)
 
 [![XoTTaB's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XoTTaBCH&theme=radical)](https://wakatime.com/@XoTTaBCH)
@@ -17,8 +19,8 @@
 [![Document Management Backend](https://github-readme-stats.vercel.app/api/pin/?username=xottab-ops&repo=document-management-backend&theme=radical)](https://github.com/jassik23/document-management-backend)
 [![Todo List Webapp](https://github-readme-stats.vercel.app/api/pin/?username=xottab-ops&repo=todo-list-webapp&theme=radical)](https://github.com/xottab-ops/todo-list-webapp)
 [![Yandex Cloud to Yandex Disk sorter](https://github-readme-stats.vercel.app/api/pin/?username=xottab-ops&repo=yc-to-yd-sorter&theme=radical)](https://github.com/xottab-ops/yc-to-yd-sorter)
-[![Ability for Duty Clasification System](https://github-readme-stats.vercel.app/api/pin/?username=xottab-ops&repo=the-appropriateness-classification-system-for-military-service&theme=radical)](https://github.com/xottab-ops/the-appropriateness-classification-system-for-military-service)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theApsil&repo=Cpp-translator&theme=radical)](https://github.com/theApsil/Cpp-translator)
+[![The appropriateness classification system for military service](https://github-readme-stats.vercel.app/api/pin/?username=xottab-ops&repo=the-appropriateness-classification-system-for-military-service&theme=radical)](https://github.com/xottab-ops/the-appropriateness-classification-system-for-military-service)
+[![C++ Translator](https://github-readme-stats.vercel.app/api/pin/?username=theApsil&repo=Cpp-translator&theme=radical)](https://github.com/theApsil/Cpp-translator)
 
 
 ## 📋 Programming Languages
