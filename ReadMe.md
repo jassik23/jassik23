@@ -1,18 +1,38 @@
-# 💫 About Me:
-🔭 I’m currently working on my graduate work;<br>🤝 I’m looking for help with my learning;<br>🌱 I’m currently learning Python, SQL, JS;<br>💬 Ask me about my studying;<br>⚡ Fun fact: I'm a dancer;
+<h1>Hi there, I am Nikita 👋</h1>
+<div id="header">
+  <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnplM2h4N21tdnB2ajVmNWM1cm5mZTN1ZW56aTA3a2FlYzRsYTNmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="300"/>
 
+🎓 <b>I am a Program Engineering student of Far Eastern Federal Universuty (Graduate 2024)<br>
+🧠 I have a passion for problem solving and learning new technologies.<br>
+👨‍🏫 INO СPE «Yandex EdTech» Assistent <br>
+👨‍🏫 Teacher in HSC FEFU<br>
+👨‍🏫 Teacher of Digital Departments specializing in "Data Analytics. Basic Competencies".<br>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/ХоТТабыЧ#8053) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@nikitareshetnev) 
+[![XoTTaB's GitHub stats](https://github-readme-stats.vercel.app/api?username=jassik23&show_icons=true&theme=radical)](https://github.com/jassik23)
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+[![XoTTaB's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XoTTaBCH)](https://wakatime.com/@XoTTaBCH)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## Accomplishments to Celebrate
 
+[![XoTTaB's GitHub stats](https://github-readme-stats.vercel.app/api?username=jassik23&theme=radical)](https://github.com/jassik23/document-management-backend)
+[![XoTTaB's GitHub stats](https://github-readme-stats.vercel.app/api?username=jassik23&theme=radical)](https://github.com/jassik23/document-management-backend)
+[![XoTTaB's GitHub stats](https://github-readme-stats.vercel.app/api?username=jassik23&theme=radical)](https://github.com/jassik23/document-management-backend)
 
+## Programming Languages
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+## Frameworks, Platforms and Libraries
+![Django](https://img.shields.io/badge/django-%2314354C.svg?style=for-the-badge&logo=django&logoColor=white)![Flask](https://img.shields.io/badge/flask-%2314354C.svg?style=for-the-badge&logo=flask&logoColor=white)![Qt](https://img.shields.io/badge/qt-%2300599C.svg?style=for-the-badge&logo=qt&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=white)![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Pug](https://img.shields.io/badge/pug-%23E34F26.svg?style=for-the-badge&logo=pug&logoColor=%2361DAFB)![Stylus](https://img.shields.io/badge/stylus-%23E34F26.svg?style=for-the-badge&logo=stylus&logoColor=%2361DAFB)![Docker](https://img.shields.io/badge/docker-%230072C6.svg?style=for-the-badge&logo=docker&logoColor=%2361DAFB)
+## Databases
+![SQLite3](https://img.shields.io/badge/sqlite3-%2314354C.svg?style=for-the-badge&logo=sqlite&logoColor=white)![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-%2314354C.svg?style=for-the-badge&logo=sqlite&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%234ea94b.svg?style=for-the-badge&logo=mysql&logoColor=white)![PostgreSQL](https://img.shields.io/badge/postgresql-%231572B6.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+## Cloud Platforms
+![Beget](https://img.shields.io/badge/beget-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 ---
 [![](https://visitcount.itsvg.in/api?id=jassik23&icon=2&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
