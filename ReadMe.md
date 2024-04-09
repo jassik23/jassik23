@@ -14,7 +14,7 @@
 
 [![XoTTaB's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XoTTaBCH&theme=radical)](https://wakatime.com/@XoTTaBCH)
 
-## Accomplishments to Celebrate
+## 🎆 Accomplishments to Celebrate
 
 [![Document Management Backend](https://github-readme-stats.vercel.app/api/pin/?username=xottab-ops&repo=document-management-backend&theme=radical)](https://github.com/jassik23/document-management-backend)
 [![Todo List Webapp](https://github-readme-stats.vercel.app/api/pin/?username=xottab-ops&repo=todo-list-webapp&theme=radical)](https://github.com/xottab-ops/todo-list-webapp)
